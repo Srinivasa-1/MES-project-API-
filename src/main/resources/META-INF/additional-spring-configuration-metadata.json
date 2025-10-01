@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "app.orders.page-size",
+    "type": "java.lang.String",
+    "description": "A description for 'app.orders.page-size'"
+  },
+  {
+    "name": "app.max-retry-attempts",
+    "type": "java.lang.String",
+    "description": "A description for 'app.max-retry-attempts'"
+  },
+  {
+    "name": "app.inventory.threshold",
+    "type": "java.lang.String",
+    "description": "A description for 'app.inventory.threshold'"
+  }
+]}
